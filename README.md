@@ -1,3 +1,5 @@
+
+
 # Adaptive AI Interviewer
 
 > Resume + JD → Adaptive voice/text interview → AI scoring → Personalized study roadmap
@@ -50,4 +52,3 @@ adaptive-interviewer/
 - **Stage B**: Browser mic + WebSocket audio + delayed transcript
 - **Stage C**: Full WebRTC realtime voice
 
-See  for full instructions.
