@@ -1,4 +1,4 @@
-
+<img width="608" height="260" alt="Screenshot 2026-06-26 at 4 02 05 PM" src="https://github.com/user-attachments/assets/cf914e7a-cce1-482e-82ce-d9f365b1a23c" />
 
 # Adaptive AI Interviewer
 
